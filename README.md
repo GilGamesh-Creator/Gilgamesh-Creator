@@ -56,7 +56,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/GilGamesh-Creator/GilGamesh-Creator/output/snake.svg" alt="Snake animation" />
-
-###
